@@ -42,7 +42,11 @@ function App() {
     setName("Pratham");
     console.log("changed to :" + name);
   }
-
+//   function callApi() {
+//     fetch('', { method: 'GET' })
+//         .then(data => data.json())
+//         .then(json => alert(JSON.stringify(json)))
+// }
 
 
   return (
