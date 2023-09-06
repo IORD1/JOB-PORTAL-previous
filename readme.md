@@ -6,9 +6,12 @@ underdevelopment/unfinished
 preview :
 <br />
 
-![image](https://github.com/VaibhavDhaygude/JOB-PORTAL-previous/assets/91962775/c88b07d3-0fc9-45b7-9490-fd28774d11f9)
+![417shots_so](https://github.com/VaibhavDhaygude/JOB-PORTAL-previous/assets/91962775/abe944de-349b-47ae-b93f-2e8dbc08efe2)
 
-![image](https://github.com/VaibhavDhaygude/JOB-PORTAL-previous/assets/91962775/b66a7b1c-e530-4ae1-9b82-d69a87c35a97)
+
+
+![203shots_so](https://github.com/VaibhavDhaygude/JOB-PORTAL-previous/assets/91962775/4462f519-95df-40bc-bdf0-95ac976889f8)
+
 
 ![image](https://github.com/VaibhavDhaygude/JOB-PORTAL-previous/assets/91962775/4e9dc474-55a4-4598-87d5-34c723305bfd)
 
